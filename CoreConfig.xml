@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+        <PatchXML LocationURL="http://recaas.github.io/ar-private-server/test.xml" />
+		<PatchTagXML FileName="CorePatchTag.xml"/>
+		<VersionXML FileName="CoreVersion.xml"/>
+</config>
