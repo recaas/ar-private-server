@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<config>
+        <PatchXML LocationURL="http://recaas.github.io/ar-private-server/test.xml" />
+		<PatchTagXML FileName="DataPatchTag.xml"/>
+		<VersionXML FileName="DataVersion.xml"/>
+		<GroupDependencies>
+			<Group Name="LevelTutorial">
+				<GroupDependency Name="levelSterrenplein"/>
+				<GroupDependency Name="backpack"/>
+			</Group>
+
+			<Group Name="levelSterrenplein">
+				<GroupDependency Name="Tekenstudio"/>
+				<GroupDependency Name="Stripstudio"/>
+				<GroupDependency Name="musicstudio"/>
+				<GroupDependency Name="levelGrotten"/>
+			</Group>
+		</GroupDependencies>
+</config>
