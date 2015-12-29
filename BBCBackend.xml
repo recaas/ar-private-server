@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<BBCBackEnd>
+	<HttpServer value="recaas.github.io/ar-private-server"/>
+	<HttpBaseDir value="/"/>
+	<LoginURL value="http://recaas.github.io/ar-private-server/test.xml"/>
+	<UserDataURL value="http://recaas.github.io/ar-private-server/test.xml"/>
+	<IDStoreURL value="http://recaas.github.io/ar-private-server/test.xml"/>
+	<log2resultsURL value="http://recaas.github.io/ar-private-server/test.xml"/>
+	<highscoreURL value="http://recaas.github.io/ar-private-server/test.xml"/>
+	<PostOfficeURL value="test.xml"/>
+	<ExePatchIni value="http://recaas.github.io/ar-private-server/test.ini"/>
+</BBCBackEnd>
