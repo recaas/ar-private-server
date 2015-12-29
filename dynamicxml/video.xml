@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserCache>
+<Secondary>
+<Entry>
+<UserID></UserID>
+<Password></Password>
+<SecondaryUser>
+<FirstName></FirstName>
+<LastName></LastName>
+<NickName></NickName>
+<Gender></Gender>
+<DayOfBirth></DayOfBirth>
+<Email></Email>
+<WorldType></WorldType>
+<Avatar>
+</Avatar>
+</SecondaryUser>
+</Entry>
+</Secondary>
+<Activated>
+</Activated>
+</UserCache>
